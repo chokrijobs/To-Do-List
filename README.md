@@ -35,7 +35,7 @@ These instructions will get you a copy of the project up and running on your loc
 `$ npm start`
 
 The app should now be running on http://localhost:3000 in your web browser.
-
+![ScreenShot Of App](public/ScreenShot.png)
 ## Built With
 
 - ReactJS
